@@ -1,0 +1,2 @@
+# jmfinanza
+gestion de gastos 
